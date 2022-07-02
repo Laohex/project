@@ -1,0 +1,55 @@
+.horn {
+    width: 1200px;
+    height: 40px;
+    background-color: white;
+    margin-top: 15px;
+    border-radius: 4px;
+    border: 1px solid #f5f5f5;
+}
+.horn .horn-left{
+    width: 20px;
+    height: 20px;
+   margin-top: 10px;
+   margin-left: 20px;
+   float: left;
+}
+.marquee-wrap {
+    width: 1105px;
+    overflow: hidden;
+    position:relative;
+    height: 40px;
+    margin-left: 50px;
+    line-height: 40px;
+    left: 0;
+    cursor: pointer;
+   }
+.scroll p {
+    word-break:keep-all;
+    white-space: nowrap;
+    font-size: 14px;
+    font-family: "微软雅黑 ";
+    margin-right: 10px;
+   }
+.scroll {
+    display: flex;
+   }
+.scroll .people {
+    color: rgb(255, 162, 141);
+}
+.scroll .name {
+    color: #333333;
+}
+.scroll .authors {
+    color: rgb(255, 162, 141);
+}
+.scroll .gift {
+    color: #333333;
+}
+.getWidth {
+    word-break:keep-all;
+    white-space:nowrap;
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    left: 0;
+   }

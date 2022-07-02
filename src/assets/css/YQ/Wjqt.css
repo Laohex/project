@@ -1,0 +1,73 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: '微软雅黑';
+    font-size: 14px;
+}
+div {
+    display: block;
+}
+.wjqt {
+    width: 1200px;
+    height: 189px;
+    background-color: white;
+    border-radius: 4px;
+    margin-top: 15px;
+    border: 1px solid #f5f5f5;
+}
+.wjqt-top {
+    width: 100%;
+    height: 37px;
+    border-bottom: 1px solid #f5f5f5;
+}
+.wjqt-top img {
+    width: 2.5%;
+    margin: 11px 6px 0px 14px;
+    float: left;
+}
+.wjqt-top span {
+    font-family: '微软雅黑';
+    font-weight: bold;
+    font-size: 18px;
+    color: #303133;
+    float: left;
+    line-height: 38px;
+}
+.wjqtleft {
+    float: left;
+    width: 580px;
+    margin-top: 8px;
+    line-height: 34px;
+    margin-left: 20px;
+}
+.wjqtleft .type {
+    color: #a6a6b6;
+    float: left;
+}
+.wjqtleft .name a {
+    color: #333333;
+    margin-left: 12px;
+    width: 165px;
+    float: left;
+}
+.wjqtleft .name a:hover {
+    color :rgb(81, 194, 154);
+}
+.wjqtleft .author a {
+    color: #333333;
+    width: 110px;
+    float: left;
+}
+.wjqtleft .author a:hover {
+    color: rgb(81, 194, 154);
+}
+.wjqtleft .brief {
+    color: #a6a6b6;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    float: left;
+    width: 255px;
+}

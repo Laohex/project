@@ -1,0 +1,32 @@
+.xjh{
+    width: 1200px;
+    height: 100%;
+    background-color: white;
+}
+
+.xjh_one{
+    width: 300px;
+    height: 100%;
+    /* background-color: pink; */
+    float: left;
+}
+.xjh_one>ul>li>a{
+    transition: calc(0.4s);
+}
+.xjh_one>ul>li .active{
+    color: #51c29a;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+
+.xjh_one ul li{
+    width: 220px;
+    height: 40px;
+    background-color: white;
+    margin-left: 20px;
+
+    padding-left: 50px;
+    height: 40px;
+    line-height: 40px;
+}

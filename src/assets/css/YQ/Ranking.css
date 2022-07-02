@@ -1,0 +1,38 @@
+.ranking {
+    width: 1200px;
+    height: 572px;
+    margin-top: 15px;
+    position: relative;
+}
+.sell{
+    background-color: white;
+    width: 287px;
+    height: 572px;
+    border-radius: 4px;
+    border: 1px solid #f5f5f5;
+    position: absolute;
+}
+.mood{
+    width: 287px;
+    height: 572px;
+    border-radius: 4px;
+    border: 1px solid #f5f5f5;
+    position: absolute;
+    margin-left: 304px;
+}
+.end{
+    width: 287px;
+    height: 572px;
+    border-radius: 4px;
+    border: 1px solid #f5f5f5;
+    position: absolute;
+    margin-left: 606px;
+}
+.admire{
+    width: 287px;
+    height: 572px;
+    border-radius: 4px;
+    border: 1px solid #f5f5f5;
+    position: absolute;
+    margin-left: 911px;
+}

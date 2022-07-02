@@ -1,0 +1,141 @@
+.update {
+    width: 1200px;
+    height: 1103px;
+    background-color:#fff;
+    margin-top: 15px;
+    border: 1px solid #f5f5f5;
+    border-radius: 4px;
+}
+.update .wjqt-top {
+    width: 100%;
+    height: 38px;
+    border: none;
+}
+.wjqt-top img {
+    width: 2.5%;
+    margin: 11px 6px 0px 14px;
+    float: left;
+}
+.update .wjqt-top span {
+    font-family: '微软雅黑';
+    font-weight: bold;
+    font-size: 18px;
+    color: #303133;
+    line-height: 38px;
+}
+.update .go {
+    float: right;
+    margin-right: 20px;
+    font-size: 14px;
+}
+
+
+.text{
+    width: 1200px;
+    height: 1064px;
+}
+.text .text-top {
+    margin-top: 20px;
+    float: left;
+    width: 1180px;
+    height: 48px;
+    line-height: 48px;
+    font-size: 14px;
+    color: #333;
+    font-weight: bold;
+    margin-left: 20px;
+    cursor: default;
+}
+.text .text-top .type {
+    width: 60px;
+    float: left;
+    text-align: center;
+    border-bottom: 1px solid #EBEEF5;
+}
+.text .text-top .name {
+    width: 220px;
+    float: left;
+    border-bottom: 1px solid #EBEEF5;
+    text-align: center;
+}
+.text .text-top .author {
+    width: 130px;
+    float: left;
+    border-bottom: 1px solid #EBEEF5;
+    text-align: center;
+}
+.text .text-top .brief {
+    width: 419px;
+    float: left;
+    border-bottom: 1px solid #EBEEF5;
+    text-align: center;
+}
+.text .text-top .chapter {
+    width: 200px;
+    float: left;
+    border-bottom: 1px solid #EBEEF5;
+    text-align: center;
+}
+.text .text-top .time {
+    width: 123px;
+    float: left;
+    border-bottom: 1px solid #EBEEF5;
+    text-align: center;
+}
+.text1 {
+    height: 49px;
+    line-height: 49px;
+    float: left;
+    margin-left: 20px;
+    width: 1180px;
+    font-size: 14px;
+}
+
+.text .text1 .type {
+    color: #a6a6b6;
+    width: 60px;
+    float: left;
+    text-align: center;
+    border-bottom: 1px solid #EBEEF5;
+}
+.text .text1 .name a{
+    color: #333333;
+    width: 220px;
+    float: left;
+    border-bottom: 1px solid #EBEEF5;
+    text-align: center;
+}
+.text .text1 .name a:hover {
+    color: rgb(81, 194, 154);
+}
+.text .text1 .author {
+    width: 130px;
+    float: left;
+    border-bottom: 1px solid #EBEEF5;
+    text-align: center;
+    color: #333333;
+}
+.text .text1 .brief {
+    width: 419px;
+    float: left;
+    border-bottom: 1px solid #EBEEF5;
+    text-align: center;
+    color: #333333;
+}
+.text .text1 .chapter a {
+    width: 200px;
+    float: left;
+    border-bottom: 1px solid #EBEEF5;
+    text-align: center;
+    color: #333333;
+}
+.text .text1 .chapter a:hover {
+    color: rgb(81, 194, 154);
+}
+.text .text1 .time {
+    width: 123px;
+    float: left;
+    border-bottom: 1px solid #EBEEF5;
+    text-align: center;
+    color: #333333;
+}

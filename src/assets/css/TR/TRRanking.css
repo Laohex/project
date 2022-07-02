@@ -1,0 +1,86 @@
+.TRranking {
+    width: 1200px;
+    height: 438px;
+    margin-top: 15px;
+    position: relative;
+}
+.Public{
+    background-color: white;
+    width: 287px;
+    height: 438px;
+    border-radius: 4px;
+    border: 1px solid #f5f5f5;
+    position: absolute;
+}
+.CP{
+    width: 287px;
+    height: 438px;
+    border-radius: 4px;
+    border: 1px solid #f5f5f5;
+    position: absolute;
+    margin-left: 304px;
+}
+.Original{
+    width: 287px;
+    height: 438px;
+    border-radius: 4px;
+    border: 1px solid #f5f5f5;
+    position: absolute;
+    margin-left: 606px;
+}
+.Assist{
+    width: 287px;
+    height: 438px;
+    border-radius: 4px;
+    border: 1px solid #f5f5f5;
+    position: absolute;
+    margin-left: 911px;
+}
+
+.TR-ranking {
+    background-color: white;
+    width: 287px;
+    height: 436px;
+    border-radius: 4px;
+    border: 1px solid #f5f5f5;
+    position: absolute;
+}
+.TR-ranking .sell-top span{
+    font-weight: bold;
+}
+.TR-ranking .sell-right span {
+    font-weight: normal;
+}
+.TR-ranking .sell-right span:hover {
+    color: #FFAD7E;
+    border-bottom: 2px solid #FFAD7E;
+}
+.TR-rightl-content {
+    width: 287px;
+    height:360px;
+    float: left;
+}
+.content-1 {
+    width: 255px;
+    height: 22px;
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+.content-1 span {
+    display: inline-block;
+    text-align: center;
+    width: 19px;
+    height: 19px;
+    background-color: #ff6e5b;
+    font-size: 14px;
+    color: white;
+    margin-right: 10px;
+    border-radius: 2px;
+}
+.content-1 a {
+    line-height: 22px;
+    color: #333;
+    font-size: 16px;
+}

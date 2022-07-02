@@ -1,0 +1,170 @@
+.shequ{
+    width: 1200px;
+    /* background-color: #fff; */
+    border-radius: 6px;
+    float: left;
+    /* background-color: #ccc; */
+}
+.shu{
+    width: 285px;
+    float: left;
+    margin-right: 20px;
+}
+.shufour{
+    width: 285px;
+    float: left;
+}
+.the_left_one{
+    width: 285px;
+    box-shadow: 0px 3px 6px -2px rgb(0 0 0 / 30%);
+    /* 注意 */
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+.the_left_one_top{
+    border-width: 0 0 1px 0;
+    border-style: solid;
+    border-color: #ededef;
+    width: 285px;
+    height: 59px;
+    float: left;
+    line-height: 59px;
+    border-radius: 6px 6px 0 0;
+}
+.the_left_one_top .the_left_one_one{
+    width: 30px;
+}
+.the_left_one_one img{
+    width: 30px;
+    float: left;
+    margin: 12px;
+    border-radius: 4px;
+}
+.the_left_one_top .the_left_one_tow{
+    width: 125px;
+    float: left;
+}
+.the_left_one_top .the_left_one_tow a{
+    width: 125px;
+    float: left;
+    margin-left: 4px;
+    color: #333333;
+    font-size: 14px;
+}
+.the_left_one_top .the_left_one_three{
+    width:60px;
+    height: 59px;
+    float: right;
+}
+.the_left_one_top .the_left_one_three a {
+    border: 1px;
+    border-style: solid;
+    border-color: #51c29a;
+    padding: 2px 8px 2px 8px;
+    border-radius: 6px;
+
+}
+.the_left_one_top .the_left_one_three a span{
+    color: #51c29a;
+    width: 285px;
+    height: 59px;
+    /* color: #333333; */
+    font-size: 14px;
+
+}
+.the_left_one .the_left_one_img img{
+    width: 285px;
+    background-color: #fff;
+    /* max-height: 200px; */
+}
+.the_left_one .the_left_one_txt{
+    background-color: #fff;
+    width: 285px;
+    /* height: 20px; */
+    min-height: 60px;
+    max-height: 100px;
+}
+.the_left_one .the_left_one_txt .pone{
+    padding: 6px 0px 0 15px;
+    width: 270px;
+    max-height: 60px;
+    max-height: 45px;
+    font-size: 14px;
+    color: #666666;
+    overflow: hidden;
+	/* white-space: nowrap; */
+	text-overflow: ellipsis;
+
+}
+.the_left_one .the_left_one_txt .ptow{
+    padding: 6px 0px 0 15px;
+    width: 270px;
+    /* height: 30px; */
+    margin-bottom: 10px;
+    font-size: 14px;
+    color: #666666;
+    overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+
+}
+.the_left_one .the_left_one_bottom {
+    width: 285px;
+    height: 50px;
+    background-color: #fff;
+    line-height: 50px;
+    border-width: 1px 0 0 0;
+    border-style: solid;
+    border-color: #ededef;
+    border-radius: 0 0 6px 6px;
+}
+.the_left_one .the_left_one_bottom a img{
+    width: 20px;
+    margin: 15px;
+    float: left;
+}
+.the_left_one .the_left_one_bottom span{
+    font-size: 14px;
+    color: #AAAAAA;
+    float: left;
+}
+.the_no{
+    width: 1200px;
+    color: rgb(182, 182, 182);
+}
+.the_no span{
+    /* width: 1200px; */
+    font-size: 18px;
+    margin-top: 50px;
+    height: 100px;
+    margin-left: 500px;
+    color: rgb(182, 182, 182);
+}
+
+/* CPQ   CSS */
+.A{
+    margin-top: 80PX;
+}
+.ssuo{
+    width: 1200px;
+    height: 1150px;
+    background-color:#fff;
+    margin-bottom: 15px;
+    border-color:#f5f5f5;
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    float: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
